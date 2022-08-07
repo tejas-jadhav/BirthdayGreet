@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Birthday Greet</string>
+    <string name="helper_text">Create birthday Card for your friends and family</string>
+    <string name="nameHint">Enter Name</string>
+    <string name="button">Create Birthday Card</string>
+    <string name="greeting">Happy Birthday</string>
+</resources>
